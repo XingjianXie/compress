@@ -1,0 +1,4 @@
+[submodule "zfp"]
+	path = zfp
+	url = git@github.com:LLNL/zfp.git
+	branch = release1.0.0
